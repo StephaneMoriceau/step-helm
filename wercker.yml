@@ -39,3 +39,4 @@ publish:
   steps:
     - internal/publish-step:
         owner: stephanemo
+        private: true
